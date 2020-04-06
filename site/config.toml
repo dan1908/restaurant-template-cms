@@ -6,6 +6,6 @@ title = "Sabrosos"
   description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
 
 [[menu.main]]
-    name = "About"
+    name = "Acerca de"
     url  = "/about"
     weight = 1
